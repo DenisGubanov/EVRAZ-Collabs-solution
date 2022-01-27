@@ -48,6 +48,5 @@ def metric(answers, user_csv):
 
 ![score](https://user-images.githubusercontent.com/70804097/139569638-4424f6e7-1c07-40a0-9267-1adb80c84fa8.png)
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/70804097/140280328-848882ab-d470-43da-a49b-d6592e3eadea.jpg" width="400" />
-  <img src="https://www.evraz.com/upload/iblock/ddb/Evraz_AR2020.png" width="400" /> 
+  <img src="https://user-images.githubusercontent.com/70804097/140280328-848882ab-d470-43da-a49b-d6592e3eadea.jpg" width="400" /> 
 </p>
